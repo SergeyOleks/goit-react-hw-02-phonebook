@@ -1,0 +1,16 @@
+.form{
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+
+    border: 1px solid black;
+}
+
+.form__label{
+    display: flex;
+    flex-direction: column;
+}
